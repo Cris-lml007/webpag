@@ -1,0 +1,16 @@
+h1{
+	color:yellow;
+	background-color:firebrick;
+	font-size:32px;
+	font-weight:bold;
+}
+button{
+	color:yellow;
+	background-color:firebrick;
+}
+body{
+	background-color:black;
+}
+p{
+	color:white;
+}
