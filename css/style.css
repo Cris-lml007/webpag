@@ -9,7 +9,17 @@ button{
 	background-color:firebrick;
 }
 body{
-	background-color:black;
+	background-image:url(https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment: fixed;
+	position: relative;
+	width:100%;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	background-color:none;
 }
 p{
 	color:white;
